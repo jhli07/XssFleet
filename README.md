@@ -278,4 +278,12 @@ XssFleet is released under the MIT License. See LICENSE file for details.
 
 ---
 
-*Built with ❤️ for security professionals*
+## Star History
+
+<a href="https://www.star-history.com/?repos=jhli07%2FXssFleet&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jhli07/XssFleet&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jhli07/XssFleet&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jhli07/XssFleet&type=date&legend=top-left" />
+ </picture>
+</a>
